@@ -1,4 +1,4 @@
-# SSgt Daniel Hayward. All labs from Module 2
+# SSgt Daniel Hayward. All labs from Module 2 20/09/21 - 21/09/21
 
 # 2.1.1.6 LAB: The print() function
 #use the print() function to print the line Hello, Python! to the screen. Use double quotes around the string
